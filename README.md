@@ -25,7 +25,7 @@ professional customer segmentation.
       Shows how a product should be presented to the customers and through what channel.
       In fact, this process is so important, that it has a framework of its own called: Marketing Mix.
         4Ps of Marketing:
-          1. Product
-          2. Price
-          3. Promotion
-          4. Place
+            1. Product
+            2. Price
+            3. Promotion
+            4. Place
